@@ -2,6 +2,15 @@
 
 Exercícios e soluções dos minicursos:
 
+- **Programação Paralela e Vetorial Avançada**
+Escola Sdumont 2021 (Virtual)
+
+- **Introdução à Programação Paralela e Vetorial**
+Escola Sdumont 2021 (Virtual)
+
+- **Programação com Aceleradores Vetoriais**
+WSCAD 2020 (Virtual)
+
 - **Programação Paralela em Memória Compartilhada e Avaliação de Desempenho com Contadores de Hardware**
 ERAD/RS 2020 (Santa Maria - RS)
 
