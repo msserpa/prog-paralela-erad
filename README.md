@@ -2,6 +2,18 @@
 
 Exercícios e soluções dos minicursos:
 
+- **Computação de Alto Desempenho em Julia**
+ERAD/RS 2022 (Curitiba - PR)
+
+- **Acelerando kernels de Machine Learning em processadores multicore e vetorial**
+ERAD/RS 2022 (Curitiba - PR)
+
+- **Programação Paralela e Vetorial Avançada**
+Escola Sdumont 2022 (Online)
+
+- **Introdução à Programação Paralela e Vetorial**
+Escola Sdumont 2022 (Online)
+
 - **Programação Paralela e Vetorial Avançada**
 Escola Sdumont 2021 (Online)
 
